@@ -1,0 +1,1 @@
+In the context of the course, techniques used to spot fraudulent behavior were highlighted, as a project assignment amounting to 50% of the final grade, I developed this code that deeply analyzes the dataset, although I don't think it is a balanced or trustworthy one given the strange sampling characteristics it shows. 
